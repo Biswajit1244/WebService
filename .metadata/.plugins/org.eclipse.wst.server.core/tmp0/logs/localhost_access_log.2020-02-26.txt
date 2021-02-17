@@ -1,0 +1,6 @@
+127.0.0.1 - - [26/Feb/2020:22:56:10 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [26/Feb/2020:22:56:12 +0530] "GET /Proj11-At_Consumes_Input_to_ws_App/ HTTP/1.1" 200 247
+127.0.0.1 - - [26/Feb/2020:23:07:10 +0530] "POST /Proj11-At_Consumes_Input_to_ws_App/webapi/std HTTP/1.1" 500 14289
+127.0.0.1 - - [26/Feb/2020:23:07:21 +0530] "POST /Proj11-At_Consumes_Input_to_ws_App/webapi/std HTTP/1.1" 200 113
+127.0.0.1 - - [26/Feb/2020:23:51:24 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [26/Feb/2020:23:51:25 +0530] "GET /Proj14-Jersey_JUNIT_Test_Case/ HTTP/1.1" 404 1108

@@ -1,0 +1,14 @@
+127.0.0.1 - - [21/Feb/2020:00:09:03 +0530] "GET /Proj10-ContentNegociation_App/rest/std/data HTTP/1.1" 200 117
+127.0.0.1 - - [21/Feb/2020:00:09:24 +0530] "GET /Proj10-ContentNegociation_App/rest/std/data HTTP/1.1" 200 117
+127.0.0.1 - - [21/Feb/2020:00:09:45 +0530] "GET /Proj10-ContentNegociation_App/rest/std/data HTTP/1.1" 200 334
+127.0.0.1 - - [21/Feb/2020:00:34:15 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [21/Feb/2020:00:34:16 +0530] "GET /Proj11-At_Consumes_Input_to_ws_App/ HTTP/1.1" 200 247
+0:0:0:0:0:0:0:1 - - [21/Feb/2020:00:36:47 +0530] "POST /Proj11-At_Consumes_Input_to_ws_App/std HTTP/1.1" 404 1116
+0:0:0:0:0:0:0:1 - - [21/Feb/2020:00:37:08 +0530] "POST /Proj11-At_Consumes_Input_to_ws_App/webapi/std HTTP/1.1" 500 14289
+0:0:0:0:0:0:0:1 - - [21/Feb/2020:00:37:32 +0530] "POST /Proj11-At_Consumes_Input_to_ws_App/webapi/std HTTP/1.1" 200 41
+0:0:0:0:0:0:0:1 - - [21/Feb/2020:00:40:10 +0530] "POST /Proj11-At_Consumes_Input_to_ws_App/webapi/std HTTP/1.1" 200 113
+127.0.0.1 - - [21/Feb/2020:00:58:05 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [21/Feb/2020:00:58:06 +0530] "GET /Proj12-At_Consumes_Json_HAS-A/ HTTP/1.1" 404 1108
+0:0:0:0:0:0:0:1 - - [21/Feb/2020:00:59:11 +0530] "POST /Proj12-At_Consumes_Json_HAS-A/rest/emp HTTP/1.1" 500 14289
+0:0:0:0:0:0:0:1 - - [21/Feb/2020:00:59:16 +0530] "POST /Proj12-At_Consumes_Json_HAS-A/rest/emp HTTP/1.1" 200 50
+0:0:0:0:0:0:0:1 - - [21/Feb/2020:01:05:14 +0530] "POST /Proj12-At_Consumes_Json_HAS-A/rest/emp HTTP/1.1" 200 196

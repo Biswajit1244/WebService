@@ -1,0 +1,4 @@
+127.0.0.1 - - [17/Feb/2020:23:07:53 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [17/Feb/2020:23:07:56 +0530] "GET /proj7-MediaType-Produces/ HTTP/1.1" 200 247
+0:0:0:0:0:0:0:1 - - [17/Feb/2020:23:09:48 +0530] "GET /proj7-MediaType-Produces/rest/result?sname=Biswajit&eng=65&math=66&sci=87 HTTP/1.1" 500 12375
+0:0:0:0:0:0:0:1 - - [17/Feb/2020:23:17:12 +0530] "GET /proj7-MediaType-Produces/rest/result?sname=Biswajit&eng=65&math=66&sci=87 HTTP/1.1" 200 297

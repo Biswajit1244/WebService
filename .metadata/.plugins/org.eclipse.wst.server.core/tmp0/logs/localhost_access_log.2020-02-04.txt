@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [04/Feb/2020:00:00:14 +0530] "GET /Proj5-Jersey-HeaderParam/rest/verify HTTP/1.1" 404 1078
+0:0:0:0:0:0:0:1 - - [04/Feb/2020:00:01:45 +0530] "GET /Proj5-Jersey-HeaderParam/rest/verify HTTP/1.1" 404 1078
+0:0:0:0:0:0:0:1 - - [04/Feb/2020:00:02:36 +0530] "GET /Proj5-Jersey-HeaderParam/rest/verify HTTP/1.1" 404 1078
+0:0:0:0:0:0:0:1 - - [04/Feb/2020:00:02:39 +0530] "GET /Proj5-Jersey-HeaderParam/rest/verify HTTP/1.1" 404 1078
+0:0:0:0:0:0:0:1 - - [04/Feb/2020:00:02:40 +0530] "GET /Proj5-Jersey-HeaderParam/rest/verify HTTP/1.1" 404 1078
+127.0.0.1 - - [04/Feb/2020:00:03:47 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [04/Feb/2020:00:03:48 +0530] "GET /Proj5-Jersey-HeaderParam/ HTTP/1.1" 404 1103
+0:0:0:0:0:0:0:1 - - [04/Feb/2020:00:04:13 +0530] "GET /Proj5-Jersey-HeaderParam/rest/verify HTTP/1.1" 200 39
+0:0:0:0:0:0:0:1 - - [04/Feb/2020:00:04:25 +0530] "GET /Proj5-Jersey-HeaderParam/rest/verify HTTP/1.1" 200 39

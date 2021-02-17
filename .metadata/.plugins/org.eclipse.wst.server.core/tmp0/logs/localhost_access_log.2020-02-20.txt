@@ -1,0 +1,12 @@
+127.0.0.1 - - [20/Feb/2020:23:41:57 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [20/Feb/2020:23:42:01 +0530] "GET /Proj10-ContentNegociation_App/ HTTP/1.1" 200 247
+0:0:0:0:0:0:0:1 - - [20/Feb/2020:23:43:34 +0530] "GET /Proj10-ContentNegociation_App/rest/std/data HTTP/1.1" 200 117
+0:0:0:0:0:0:0:1 - - [20/Feb/2020:23:44:17 +0530] "GET /Proj10-ContentNegociation_App/rest/std/data HTTP/1.1" 500 13056
+0:0:0:0:0:0:0:1 - - [20/Feb/2020:23:44:32 +0530] "GET /Proj10-ContentNegociation_App/rest/std/data HTTP/1.1" 500 8258
+0:0:0:0:0:0:0:1 - - [20/Feb/2020:23:44:33 +0530] "GET /Proj10-ContentNegociation_App/rest/std/data HTTP/1.1" 500 8258
+127.0.0.1 - - [20/Feb/2020:23:47:28 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [20/Feb/2020:23:47:28 +0530] "GET /Proj10-ContentNegociation_App/ HTTP/1.1" 404 1108
+0:0:0:0:0:0:0:1 - - [20/Feb/2020:23:47:38 +0530] "GET /Proj10-ContentNegociation_App/rest/std/data HTTP/1.1" 500 13056
+0:0:0:0:0:0:0:1 - - [20/Feb/2020:23:52:06 +0530] "GET /Proj10-ContentNegociation_App/rest/std/data HTTP/1.1" 200 334
+0:0:0:0:0:0:0:1 - - [20/Feb/2020:23:53:01 +0530] "GET /Proj10-ContentNegociation_App/rest/std/data HTTP/1.1" 200 334
+0:0:0:0:0:0:0:1 - - [20/Feb/2020:23:53:11 +0530] "GET /Proj10-ContentNegociation_App/rest/std/data HTTP/1.1" 200 117

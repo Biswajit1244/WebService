@@ -1,0 +1,5 @@
+127.0.0.1 - - [03/Mar/2020:00:09:17 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [03/Mar/2020:00:09:20 +0530] "GET /Proj16-Jersey_Filetr_Application_Security/ HTTP/1.1" 404 1120
+127.0.0.1 - - [03/Mar/2020:00:10:47 +0530] "GET /Proj16-Jersey_Filetr_Application_Security/rest/pay HTTP/1.1" 200 23
+127.0.0.1 - - [03/Mar/2020:00:11:04 +0530] "GET /Proj16-Jersey_Filetr_Application_Security/rest/pay HTTP/1.1" 400 13
+127.0.0.1 - - [03/Mar/2020:00:13:22 +0530] "GET /Proj16-Jersey_Filetr_Application_Security/rest/pay HTTP/1.1" 401 18

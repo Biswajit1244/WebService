@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="E:\WebService\RgSirProgram\JerseyClint"/>
+			<item value="E:\WebService\RgSirProgram\Proj14-Jersey_JUNIT_Test_Case\src\test\java\com\biss\test\TestStudentRestController.java"/>
+			<item value="E:\WebService\RgSirProgram\proj9-MediaType-JSON\src\main\java\in\biss\controller\ContractRestController.java"/>
+			<item value="E:\WebService\RgSirProgram\proj7-MediaType-Produces-ResultCardApp\pom.xml"/>
+			<item value="E:\WebService\RgSirProgram\proj7-Email-Program-FormParam\src\main\java\in\biss\controller\EmailRestController.java"/>
+			<item value="E:\WebService\RgSirProgram\Proj5-Jersey-HeaderParam\src\main\java\in\biss\controller\SecureRestController.java"/>
+			<item value="E:\WebService\RgSirProgram\Proj4-Jersey-FormParam\src\main\java\in\biss\controller\PaymentRestController.java"/>
+			<item value="E:\WebService\RgSirProgram\Proj3-Jersey-MatrixParam\src\main\java\in\biss\controller\StudentRestController.java"/>
+			<item value="E:\WebService\RgSirProgram\Proj2-Jersey_QueryParam\src\main\java\in\biss\controller\ProductController.java"/>
+			<item value="E:\WebService\RgSirProgram\Proj1-Jersey1stApp"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.CustomArchetypeDialog">
+		<list key="archetypeGroupId">
+			<item value="org.glassfish.jersey.archetypes"/>
+		</list>
+		<list key="archetypeArtifactId">
+			<item value="jersey-quickstart-webapp"/>
+		</list>
+		<list key="archetypeVersion">
+			<item value="2.29"/>
+		</list>
+		<list key="repositoryUrl">
+			<item value=""/>
+		</list>
+	</section>
+</section>

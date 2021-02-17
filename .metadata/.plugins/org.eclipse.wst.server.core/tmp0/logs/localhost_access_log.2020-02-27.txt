@@ -1,0 +1,12 @@
+0:0:0:0:0:0:0:1 - - [27/Feb/2020:00:05:29 +0530] "GET /Proj14-Jersey_JUNIT_Test_Case/std/one HTTP/1.1" 404 1119
+0:0:0:0:0:0:0:1 - - [27/Feb/2020:00:06:15 +0530] "GET /Proj14-Jersey_JUNIT_Test_Case/rest/std/one HTTP/1.1" 404 1128
+127.0.0.1 - - [27/Feb/2020:00:09:09 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [27/Feb/2020:00:09:11 +0530] "GET /Proj14-Jersey_JUNIT_Test_Case/ HTTP/1.1" 404 1108
+0:0:0:0:0:0:0:1 - - [27/Feb/2020:00:10:48 +0530] "GET /Proj14-Jersey_JUNIT_Test_Case/rest/std/one HTTP/1.1" 404 1128
+0:0:0:0:0:0:0:1 - - [27/Feb/2020:00:10:49 +0530] "GET /favicon.ico HTTP/1.1" 404 1085
+127.0.0.1 - - [27/Feb/2020:00:12:30 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [27/Feb/2020:00:12:31 +0530] "GET /Proj14-Jersey_JUNIT_Test_Case/ HTTP/1.1" 404 1108
+0:0:0:0:0:0:0:1 - - [27/Feb/2020:00:13:31 +0530] "GET /Proj14-Jersey_JUNIT_Test_Case/rest/std/one HTTP/1.1" 200 5
+127.0.0.1 - - [27/Feb/2020:11:07:58 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [27/Feb/2020:11:08:02 +0530] "GET /Proj14-Jersey_JUNIT_Test_Case/ HTTP/1.1" 404 1108
+0:0:0:0:0:0:0:1 - - [27/Feb/2020:11:08:13 +0530] "GET /Proj14-Jersey_JUNIT_Test_Case/rest/std/one HTTP/1.1" 200 5

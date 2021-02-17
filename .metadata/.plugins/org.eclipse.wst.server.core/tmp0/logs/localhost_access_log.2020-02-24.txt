@@ -1,0 +1,2 @@
+127.0.0.1 - - [24/Feb/2020:12:41:29 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [24/Feb/2020:12:41:32 +0530] "GET /Proj13-JSON_as_Input_And_Output_ExamResult_Usecase/ HTTP/1.1" 200 247

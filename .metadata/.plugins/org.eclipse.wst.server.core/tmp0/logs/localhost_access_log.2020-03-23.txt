@@ -1,0 +1,7 @@
+127.0.0.1 - - [23/Mar/2020:21:15:46 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [23/Mar/2020:21:15:48 +0530] "GET /proj17-Security_App_Using-Autentication-Header/ HTTP/1.1" 404 1125
+0:0:0:0:0:0:0:1 - - [23/Mar/2020:21:16:09 +0530] "GET /proj17-Security_App_Using-Autentication-Header/rest/pay/payAmt HTTP/1.1" 200 18
+127.0.0.1 - - [23/Mar/2020:22:10:04 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [23/Mar/2020:22:10:05 +0530] "GET /proj17-Security_App_Using-Autentication-Header/ HTTP/1.1" 404 1125
+0:0:0:0:0:0:0:1 - - [23/Mar/2020:22:12:05 +0530] "GET /proj17-Security_App_Using-Autentication-Header/rest/pay/payAmt HTTP/1.1" 401 33
+0:0:0:0:0:0:0:1 - - [23/Mar/2020:22:12:51 +0530] "GET /proj17-Security_App_Using-Autentication-Header/rest/pay/payAmt HTTP/1.1" 200 18
